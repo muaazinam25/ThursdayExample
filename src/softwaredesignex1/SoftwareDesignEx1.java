@@ -18,6 +18,7 @@ public class SoftwareDesignEx1 {
         // TODO code application logic here
         System.out.println("Test1");
         System.out.println("Test2");
+        System.out.println("Test3");
     }
     
 }
